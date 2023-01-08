@@ -5,4 +5,25 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Debug\net5.0\DataImport.deps.json" />
+    <Content Include="bin\Debug\net5.0\DataImport.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\net5.0\DataImport.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0\DataImport.dll" />
+    <None Include="bin\Debug\net5.0\DataImport.exe" />
+    <None Include="bin\Debug\net5.0\DataImport.pdb" />
+    <None Include="bin\Debug\net5.0\Deisel.csv" />
+    <None Include="bin\Debug\net5.0\Desel.csv" />
+    <None Include="bin\Debug\net5.0\Diesel.csv" />
+    <None Include="bin\Debug\net5.0\Electric.csv" />
+    <None Include="bin\Debug\net5.0\Hybrid.csv" />
+    <None Include="bin\Debug\net5.0\Petral.csv" />
+    <None Include="bin\Debug\net5.0\Petrol.csv" />
+    <None Include="bin\Debug\net5.0\ref\DataImport.dll" />
+    <None Include="bin\Debug\net5.0\TechnicalTestData.csv" />
+  </ItemGroup>
+
 </Project>
